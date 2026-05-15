@@ -1,0 +1,22 @@
+{
+  "name": "ai-governance",
+  "description": "EU AI Act compliance checker voor AI-systemen. Classificeert risiconiveaus, checkt verplichte documentatie, en genereert conformiteitschecklists voor overheidsorganisaties en bedrijven die AI inzetten. Gebaseerd op de EU AI Act (augustus 2024), BIO2, IAMA, en NORA.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dennis Landman",
+    "email": "dennis@djimit.nl"
+  },
+  "license": "MIT",
+  "keywords": [
+    "eu-ai-act",
+    "ai-governance",
+    "compliance",
+    "risk-classification",
+    "overheid",
+    "government",
+    "high-risk-ai",
+    "conformity-assessment",
+    "fundamental-rights",
+    "algorithm-regulation"
+  ]
+}
